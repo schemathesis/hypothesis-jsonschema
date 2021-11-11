@@ -49,7 +49,7 @@
 #### 0.17.0 - 2020-07-16
 - Adds a `custom_formats` keyword argument to `from_schema()`, so that you can
   specify a strategy to generate strings for custom formats like credit card numbers.
-  Thanks to Dmitry Dygalo, whose [sponsorship](https://github.com/sponsors/Zac-HD)
+  Thanks to XXXX, whose [sponsorship](https://github.com/sponsors/XXXX)
   motivated me to add the feature!
 
 #### 0.16.2 - 2020-07-12
@@ -136,7 +136,7 @@ get in touch and we can discuss adding an off-by-default option for this.
 - Improved internal handling of schemas for arrays which must always be length-zero.
 
 #### 0.9.12 - 2019-12-01
-- Fixed RFC 3339 strings generation.  Thanks to Dmitry Dygalo for the patch!
+- Fixed RFC 3339 strings generation.  Thanks to XXXX for the patch!
 - Fixed a bug where equal floats and ints could be generated in a unique array,
   even though JSONSchema considers 0 === 0.0
   (though this may also require an upstream fix to work...)

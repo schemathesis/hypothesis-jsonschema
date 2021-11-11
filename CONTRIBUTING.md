@@ -10,7 +10,7 @@ We use [Github Flow](https://guides.github.com/introduction/flow/index.html),
 so here's the workflow for a new contributor:
 
 1. Choose an issue to work on - preferably one of the
-   [issues tagged `good first issue`](https://github.com/Zac-HD/hypothesis-jsonschema/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+   [issues tagged `good first issue`](https://github.com/XXXX/hypothesis-jsonschema/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 2. Fork the repo, clone it to your local machine, and create your branch from `master`.
    (If this sounds scary, [check out GitHub's *Hello World* guide](https://guides.github.com/activities/hello-world/))
@@ -28,7 +28,7 @@ so here's the workflow for a new contributor:
    Note that you *don't need to be finished* - if you're stuck, please open a
    work-in-progress PR and ask for suggestions.
 
-6. Zac will review your code, and either ask for some changes (go to step 4),
+6. XXXX will review your code, and either ask for some changes (go to step 4),
    or merge if it looks finished and passes all the tests.  Congratulations!
 
 
@@ -43,7 +43,7 @@ bit about Hypothesis and a bit about JSONschema!
   is a great explanation of what Hypothesis is for and why it works so well.
 - The [official Hypothesis documentation](https://hypothesis.readthedocs.io/en/latest/)
   covers all the functions you'll need, and you can get some hands-on experience with
-  [the problems in this tutorial](https://github.com/Zac-HD/escape-from-automanual-testing/).
+  [the problems in this tutorial](https://github.com/XXXX/escape-from-automanual-testing/).
 
 
 ## How things work
